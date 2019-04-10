@@ -1,0 +1,14 @@
+{
+    "name": "pingshim/study",
+    "description": "This is a application of my testing.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "syc",
+            "email": "syc@163.com"
+        }
+    ],
+    "require": {
+		"pingshim/test": "dev-master"
+	}
+}
