@@ -1,6 +1,6 @@
 {
-    "name": "pingshim/study",
-    "description": "This is a application of my testing.",
+    "name": "pingshim/test",
+    "description": "This is a application of my testing.aaaaaaa",
     "type": "project",
     "authors": [
         {
@@ -8,7 +8,5 @@
             "email": "syc@163.com"
         }
     ],
-    "require": {
-		"pingshim/test": "dev-master"
-	}
+    "require": {}
 }
